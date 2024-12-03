@@ -1,6 +1,5 @@
-<mark>Template for your README. Remove all unused parts and instructions</mark>
 
-# Lab work <mark>NUMBER</mark>: 8<mark>MY SHELL</mark>
+# <mark>MY SHELL</mark>
 Authors (team):
 - Bohdan Ozarko https://github.com/Compi-Craft
 - Sviatoslav Stehnii https://github.com/sviatoslavstehnii
